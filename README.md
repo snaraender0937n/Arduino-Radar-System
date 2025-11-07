@@ -15,6 +15,7 @@ A simple radar-like scanner using an ultrasonic sensor mounted on a servo. The A
 - **Servo**: Signal → D11, Vcc → 5V, GND → GND
 - **HC-SR04**: TRIG → D9, ECHO → D10, Vcc → 5V, GND → GND
 
+![Circuit](Images/radar_diagram.png)
 ---
 
 ## 💻 Software
