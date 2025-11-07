@@ -1,0 +1,10 @@
+Arduino Radar System – Components List
+
+1. Arduino UNO
+2. Ultrasonic Sensor HC-SR04 (Trig/Echo)
+3. Servo Motor (SG90 or MG90S)
+4. Jumper Wires
+5. Breadboard (optional)
+6. USB Cable for Arduino
+7. 5V External Supply for Servo (recommended) + common GND
+8. Resistors (optional voltage divider if needed for 5V → 3.3V boards)
