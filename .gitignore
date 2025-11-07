@@ -1,0 +1,19 @@
+# Arduino build artifacts
+*.hex
+*.elf
+*.bin
+
+# Processing / Java cache
+*.class
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln
+*.swp
